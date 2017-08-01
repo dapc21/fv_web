@@ -1,0 +1,12 @@
+var translaterestorepassword =  {};
+translaterestorepassword.panelTitle =  'Resetear Contraseña';
+translaterestorepassword.formPassword = {};
+translaterestorepassword.formPassword.sendData = 'Enviar Datos';
+translaterestorepassword.formPassword.clearData = 'Limpiar Datos';
+translaterestorepassword.formPassword.MsgSuccess =  'Contraseña Reseteada.<br/><br/>';
+translaterestorepassword.formPassword.MsgError =  'Ha ocurrido un error.<br/><br/>';
+translaterestorepassword.formPassword.passwordText = 'Las contraseñas no coinciden.';
+translaterestorepassword.formPassword.password = 'Contraseña';
+translaterestorepassword.formPassword.passwordEmptyText = 'Introduzca la contraseña...';
+translaterestorepassword.formPassword.passwordConfirm = 'Confirmar Contraseña';
+translaterestorepassword.formPassword.passwordConfirmEmptyText = 'Confirme la contraseña...';

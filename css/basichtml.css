@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #243342;
+}
+.robben, .bielsa {
+  color: #214a8e;
+  outline: medium none;
+  text-decoration: none;
+  font-size: 0.48em!important;
+  padding: 0!important;
+}
+.sapo {
+  color: rgb(33, 74, 142);
+  display: block;
+  font-size: 0.31em!important;
+  margin-top: 20px;
+  /*padding: 0 37% 0 0;*/
+}
+#pushobj {
+	position: absolute;
+        width: 100%;
+	top: 0px;
+	/*left: 300px;*/
+	color: #fff;
+	background: #243342;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 2em;
+}

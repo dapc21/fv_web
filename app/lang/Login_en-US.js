@@ -1,0 +1,16 @@
+var translatelogin =  {};
+translatelogin.panelTitle =  'Log In';
+translatelogin.formLogin = {};
+translatelogin.formLogin.sendData = 'Login';
+translatelogin.formLogin.clearData = 'Clear Data';
+translatelogin.formLogin.MsgSuccess =  'Logged.<br/><br/>';
+translatelogin.formLogin.MsgSuccessError =  'The user/password is incorrect.<br/><br/>';
+translatelogin.formLogin.MsgUnauthorized =  'Unauthorized.<br/><br/>';
+translatelogin.formLogin.MsgError =  'An error has occurred.<br/><br/>';
+translatelogin.formLogin.login = 'Nombre de usuario';
+translatelogin.formLogin.loginEmptyText = 'Introduzca el usuario';
+translatelogin.formLogin.email = 'Email';
+translatelogin.formLogin.emailEmptyText = 'Enter the username...';
+translatelogin.formLogin.password = 'Password';
+translatelogin.formLogin.passwordEmptyText = 'Enter the password...';
+translatelogin.formLogin.recoverySendMail = 'Por favor revise su correo registrado para que continue con la recuperación de su clave.';

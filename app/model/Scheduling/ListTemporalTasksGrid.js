@@ -1,0 +1,27 @@
+Ext.define('LoadPrincipal.model.Scheduling.ListTemporalTasksGrid', 
+{
+    extend: 'Ext.data.Model',
+    fields: [
+      {name: '_id', type: 'auto'},
+      {name: 'address', type: 'auto'},
+      {name: 'arrival_time', type: 'auto'},
+      {name: 'code', type: 'auto'},
+      {name: 'created_at', type: 'auto'},
+      {name: 'duration', type: 'auto'},
+      {name: 'finish_time', type: 'auto'},
+      {name: 'forms', type: 'auto'},
+      {name: 'id_company', type: 'auto'},
+      {name: 'id_order', type: 'auto'},
+      {name: 'id_process', type: 'auto'},
+      {name: 'id_resourceInstance', type: 'auto'},
+      {name: 'id_user_create', type: 'auto'},
+      {name: 'loadAmount', type: 'auto'},
+      {name: 'location', type: 'auto'},
+      {name: 'name', type: 'auto'},
+      {name: 'priority', type: 'auto'},
+      {name: 'status', type: 'auto'},
+      {name: 'type', type: 'auto'},
+      {name: 'updated_at', type: 'auto'},
+    ],
+    idProperty: '_id'
+});

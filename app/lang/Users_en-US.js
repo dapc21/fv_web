@@ -1,0 +1,106 @@
+var translateresources =  {};
+translateresources.title = 'Create resource';
+translateresources.panelTitle = 'Resource details';
+translateresources.moduleTitle = 'Resource';
+translateresources.confirmTitle = 'Confirm';
+translateresources.confirmDelete = '\xbfDo you want to delete the selected data?<br/><br/>';
+translateresources.confirmActivate = '\xbfDo you want to activate the selected data?<br/><br/>';
+translateresources.confirmDeactivate = '\xbfDo you want to deactivate the selected data?<br/><br/>';
+translateresources.confirmSuspend = '\xbfDo you want to suspend the selected data?<br/><br/>';
+translateresources.confirmRestore = '\xbfDo you want to restore the selected data?<br/><br/>';
+translateresources.recordExist = 'This record exist.<br/>';
+translateresources.MsgError = 'An error has occurred.<br/><br/>';
+
+translateresources.filter = {};
+translateresources.filter.title = 'Advanced Filters';
+translateresources.filter.loadingText = 'Searching...';
+translateresources.filter.tooltipButton = 'Removes the filter';
+
+translateresources.grid = {};
+translateresources.grid.columnLogin = 'Login';
+translateresources.grid.columnEmail = 'Email';
+translateresources.grid.columnStatus = 'Status';
+translateresources.grid.columnRoles = 'Roles';
+translateresources.grid.columnFirstname = 'Firstname';
+translateresources.grid.columnLastname = 'Lastname';
+translateresources.grid.columnDeletedAt = 'Deleted At';
+translateresources.grid.emptyText = 'Search criteria...';
+translateresources.grid.tooltipButton = 'Removes the filter';
+translateresources.grid.menuItemChangePassword = 'Change Password';
+translateresources.grid.menuItemResetPassword = 'Reset Password';
+
+translateresources.form = {};
+translateresources.form.fieldLogin = 'Login';
+translateresources.form.fieldEmail = 'Email';
+translateresources.form.fieldStatus = 'Status';
+translateresources.form.fieldRoles = 'Roles';
+translateresources.form.role = 'Role';
+translateresources.form.roles = 'Roles';
+translateresources.form.resource = 'Resource';
+translateresources.form.resources = 'Resources';
+translateresources.form.device = 'Device';
+translateresources.form.devices = 'Devices';
+translateresources.form.resourcesgroup = 'Resources Group(s)';
+translateresources.form.MsgSuccessCreate = translateresources.form.resource+' Created.<br/><br/>';
+translateresources.form.MsgSuccessEdit = translateresources.form.resource+' Edited.<br/><br/>';
+translateresources.form.MsgSuccessDelete = translateresources.form.resource+' Deleted.<br/><br/>';
+translateresources.form.MsgSuccessDeletePlural = translateresources.form.resources+' Deleted.<br/><br/>';
+translateresources.form.MsgSuccessActivate = translateresources.form.resource+' Activated.<br/><br/>';
+translateresources.form.MsgSuccessActivatePlural = translateresources.form.resources+' Activated.<br/><br/>';
+translateresources.form.MsgSuccessSuspend = translateresources.form.resource+' Suspended.<br/><br/>';
+translateresources.form.MsgSuccessSuspendPlural = translateresources.form.resources+' Suspended.<br/><br/>';
+translateresources.form.MsgSuccessResetPassword = "Email sent to the user's account.<br/><br/>";
+translateresources.form.MsgSuccessChangePassword = 'The password has been changed.<br/><br/>';
+translateresources.form.MsgError = 'An error has occurred.<br/><br/>';
+
+translateresources.form.gridRolesFieldset = 'Roles';
+translateresources.form.gridRolesColumnRoleName = 'Role';
+translateresources.form.gridRolesColumnApplicationName = 'Application';
+translateresources.form.gridRolesMsgErrorIsValid = 'Assign the role(s).';
+translateresources.form.gridDevicesFieldset = 'Devices';
+translateresources.form.gridDevicesColumnSerial = 'Serial';
+translateresources.form.gridDevicesColumnName = 'Name';
+translateresources.form.gridDevicesColumnAttributes = 'Attributes';
+translateresources.form.gridDevicesRecordExist = 'This device has already been added.<br/><br/>';
+translateresources.form.gridResourcesFieldset = 'Associated Resources';
+translateresources.form.gridResourcesColumnLogin = 'Resource';
+translateresources.form.gridResourcesGroupFieldset = 'Resources Group(s)';
+translateresources.form.gridResourcesGroupColumnName = 'Name';
+
+translateresources.formRoles = {};
+translateresources.formRoles.fieldset = 'Assign Role/Application';
+translateresources.formRoles.fieldLabelRole = 'Role';
+translateresources.formRoles.emptyTextRole = 'Select the role...';
+translateresources.formRoles.fieldLabelApplication = 'Application';
+translateresources.formRoles.emptyTextApplication = 'Select the application...';
+
+translateresources.formResorcesGroup = {};
+translateresources.formResorcesGroup.title = 'Assign Resources Group(s)';
+translateresources.formResorcesGroup.fieldset = 'Resources Group(s)';
+translateresources.formResorcesGroup.fieldLabelGroup = 'Group';
+translateresources.formResorcesGroup.emptyTextGroup = 'Select the group...';
+
+translateresources.formDevices = {};
+translateresources.formDevices.title = 'Assign Device(s)';
+translateresources.formDevices.fieldset = 'Devices List';
+translateresources.formDevices.fieldLabelDeviceType = 'Device Type';
+translateresources.formDevices.emptyTextDeviceType = 'Select the device type...';
+translateresources.formDevices.fieldLabelDevice = 'Device';
+translateresources.formDevices.emptyTextDevice = 'Select the device...';
+
+translateresources.formResources = {};
+translateresources.formResources.title = 'Associate Resource(s)';
+translateresources.formResources.fieldset = 'Resources List';
+translateresources.formResources.fieldsetAttributes = 'Attributes';
+translateresources.formResources.fieldLabelResourceType = 'Resource Type';
+translateresources.formResources.emptyTextResourceType = 'Select the resource type...';
+translateresources.formResources.fieldLabelResource = 'Resource';
+translateresources.formResources.emptyTextResource = 'Select the resource...';
+
+translateresources.group = {};
+translateresources.group.grid = {};
+translateresources.group.grid.title = 'Resources Group';
+translateresources.group.grid.name = 'Name';
+translateresources.group.grid.emptyText = 'Search group...';
+translateresources.group.grid.tooltipButton = 'Removes the filter';
+translateresources.group.grid.MsgErrorValueExist = 'This value exist.';

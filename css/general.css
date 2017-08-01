@@ -1,0 +1,10 @@
+.icon-sync {
+  background-image: url("../images/sync.png") !important;
+  background-repeat: no-repeat;
+  background-position: 6px 3px;
+}
+.icon-sync2 {
+  background-image: url("../images/sync.png") !important;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+}
